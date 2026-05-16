@@ -1,6 +1,6 @@
-## This is a simple To-Do app built in ==Python Django== and ==PostgreSQL== for the database.
+## This is a simple To-Do app built in =Python Django= and =PostgreSQL= for the database.
 Here is the code in settings.py to connect the model to the database:
-`` python
+```
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -10,4 +10,4 @@ DATABASES = {
         'HOST': 'localhost'
     }
 }
-``
+```
