@@ -1,5 +1,5 @@
-## This is a simple To-Do app built in =Python Django= and =PostgreSQL= for the database.
-Here is the code in settings.py to connect the model to the database:
+## This is a simple To-Do app built in _Python Django_ and _PostgreSQL_ for the database.
+Here is the code in `settings.py` to connect the model to the database:
 ```
 DATABASES = {
     'default': {
